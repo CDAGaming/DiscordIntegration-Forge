@@ -117,7 +117,7 @@ dependencies {
     //embed 'dcintegration-core:dcintegration-core-2.4.0'
 
     // =========  Minecraft Forge =============
-    minecraft "net.minecraftforge:forge:${project.mcVersion}-39.1.0"
+    minecraft "net.minecraftforge:forge:${project.mcVersion}-40.0.24"
 
     //Mixin
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
